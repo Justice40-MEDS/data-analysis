@@ -1,6 +1,17 @@
-# data-analysis
+Data Analysis for Improved Climate and Economic Justice Screening Tool
 
-## Structure
+This repository (will eventually) houses the cleaned notebooks in which we explore the data that makes up the original Climate and Economic Justice Screening tool.
+
+## Authors
+- [Josephine Cardelle](https://github.com/jocardelle)
+  
+- [Kat Le](https://github.com/katleyq)
+  
+- [Haylee Oyler](https://github.com/haylee360)
+  
+- [Kimberlee Wong](https://github.com/kimberleewong)
+
+## Repository Structure
 ```
 data-analysis│
 ├── README.md                                          
