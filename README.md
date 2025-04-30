@@ -1,6 +1,6 @@
-# Data Analysis for Improved Climate and Economic Justice Screening Tool
+# Data Analysis for an Improved Climate and Economic Justice Screening Tool
 
-This repository (will eventually) houses the cleaned notebooks in which we explore the data that makes up the original Climate and Economic Justice Screening tool. (Currently still being worked on, there are some unnessecary notebooks and titles will be fixed.
+This repository houses Python notebooks for exploration of the data fron the Climate and Economic Justice Screening Tool. It also contains calculations for a cumulative approach and a spatial clustering approach to burden aggregation.
 
 ## Authors
 - [Josephine Cardelle](https://github.com/jocardelle)
@@ -19,25 +19,15 @@ data-analysis│
 ├── LICENSE              
 │
 ├── docs/                      
-│   ├──data-viz.qmd
-│   ├──dataahhhh.ipynb
+│   ├──demographic-viz.qmd
 │   ├──demographics.ipynb
-│   ├──faculty_rev_viz.ipynb
-│   ├──gistar-CORRECT.ipynb
-│   ├──gstar-tuning.ipynb
-│   ├──index.html
+│   ├──gistar-tuning.ipynb
 │   ├──initial-exploration.ipynb
-│   ├──map.html
-│   ├──mapping-burdens.ipynb
-│   ├──mappng.ipynb
-│   ├──test_aggregate.ipynb
+│   └──mapping-viz.ipynb
 ├── env-files/                      
 │   ├──justice40-env.yml
-│   ├──pythonenv_instructions.txt
+│   └──pythonenv_instructions.txt
 ├── fonts/                      
-│   ├──Font Awesome 6 Brands-Regular-400.otf
-│   ├──Font Awesome 6 Free-Regular-400.otf
-│   ├──Font Awesome 6 Free-Solid-400.otf
 ├── images/                      
 │   ├──burden_map.png
 │   ├──dac.png
@@ -45,5 +35,5 @@ data-analysis│
 │   ├──dem_ind.png
 │   ├──ind_map.png
 │   ├──pop_burd.png
-│   ├──pop_ind.png
+│   └──pop_ind.png
 ```
