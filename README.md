@@ -1,6 +1,6 @@
 Data Analysis for Improved Climate and Economic Justice Screening Tool
 
-This repository (will eventually) houses the cleaned notebooks in which we explore the data that makes up the original Climate and Economic Justice Screening tool.
+This repository (will eventually) houses the cleaned notebooks in which we explore the data that makes up the original Climate and Economic Justice Screening tool. (Currently still being worked on, there are some unnessecary notebooks and titles will be fixed.
 
 ## Authors
 - [Josephine Cardelle](https://github.com/jocardelle)
