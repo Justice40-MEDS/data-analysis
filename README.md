@@ -26,7 +26,8 @@ data-analysis│
 │   └──mapping-viz.ipynb
 ├── env-files/                      
 │   ├──justice40-env.yml
-│   └──pythonenv_instructions.txt
+│   ├──pythonenv_instructions.txt
+│   └──requirements.txt
 ├── fonts/                      
 ├── images/                      
 │   ├──burden_map.png
