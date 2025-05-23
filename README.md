@@ -1,4 +1,4 @@
-# Data Analysis for an Improved Climate and Economic Justice Screening Tool
+# Data Analysis for an Improved Climate and Economic Justice Screening Tool 
 
 This repository houses Python notebooks for exploration of the data fron the Climate and Economic Justice Screening Tool. It also contains calculations for a cumulative approach and a spatial clustering approach to burden aggregation.
 
